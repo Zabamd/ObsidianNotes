@@ -1,0 +1,23 @@
+A media channel is a medium between a brand and its target audience. 
+#### Media Channel Types:
+- newspapers;
+- magazines;
+- brochures;
+- leaflets;
+- flyers;
+- banners;
+- books;
+- business cards.
+- television;
+- radio;
+- movies.
+- website;
+- landing page;
+- search engine;
+- blog;
+- mobile;
+- email;
+- social media networks;
+- podcasts;
+- videos;
+- webinars.

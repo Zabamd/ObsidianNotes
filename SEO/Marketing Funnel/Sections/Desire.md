@@ -1,0 +1,1 @@
+The customer has motivation or an incentive to purchase your brand, product, or service.

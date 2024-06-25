@@ -1,0 +1,1 @@
+The customer makes regular purchases and a customer relationship is established.

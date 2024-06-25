@@ -1,0 +1,1 @@
+The customer chooses your brand, product, or service over your competitor’s.

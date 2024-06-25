@@ -1,0 +1,4 @@
+- Reveal decision customer made to arrive at certain endpoint,
+- Occur every time customer interacts with your app and all [[Media channels]],
+- customer-centric,
+- Describe actions customer took - like clicking an add, 
